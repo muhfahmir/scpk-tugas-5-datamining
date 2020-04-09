@@ -1,0 +1,1 @@
+# scpk-tugas-5-datamining
